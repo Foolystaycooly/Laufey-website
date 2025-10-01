@@ -22,3 +22,7 @@ Interactive music portfolio website built with HTML, CSS, and JavaScript, featur
 1. Clone the repository:
    ```bash
    git clone https://github.com/foolystaycooly/Laufey-website.git
+   
+2. Open index.html in your browser.
+
+Note: The interactive lyrics panel currently uses static files. Database integration is planned for future updates.
