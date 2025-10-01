@@ -18,6 +18,13 @@ img {
   pointer-events: auto;       /* Keeps click events active if needed */
 }
 
+
+/*--- Image scalability for other devices ---*/
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+
 /*----Mute button---*/
 #mute-btn {
   position: fixed;
@@ -417,3 +424,4 @@ h2, h3, h4 {
     opacity: 0;
   }
 }
+
